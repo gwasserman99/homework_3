@@ -13,11 +13,10 @@ body{
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: #cccccc;
+  background-color: #dddddd;
   color: #000000;
   font-size: 16px;
   font-family: 'Andika', sans-serif;
-  
   
 }
 
@@ -49,7 +48,7 @@ p{
 
 a{
   font-size: 16px;
-  color: #C12258;
+  color: #B92751;
   text-decoration-line: underline;
   text-decoration-style: wavy;
 }
@@ -64,9 +63,10 @@ table{
 .colhead{
   background-color: #7e0830;
   color: #FFFFFF;
-  min-width: 115px;
+  min-width: 125px;
   padding: 10px;
   text-align: center;
+  vertical-align: center;
   text-transform: uppercase;
 }
 
@@ -74,10 +74,13 @@ table{
   border: 2px solid #000000;
   border-left: none;
   border-bottom: none;
+  vertical-align: center;
+  padding: 10px;
 }
 
 td{
   border-top: 2px solid #000000;
+  padding: 10px;
 }
 
 tr:nth-child(even){
@@ -85,7 +88,7 @@ tr:nth-child(even){
 }
 
 tr:hover{
-  background-color: rgba(126, 8, 48, .25);
+  background-color: rgba(185, 39, 81 .25);
 }
 
 *{
@@ -115,6 +118,6 @@ footer{
   text-align:center;
   color: #FFFFFF;
   position: absolute;
-  bottom: 0;
+  
 }
 
