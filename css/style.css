@@ -26,7 +26,6 @@ main{
 }
 
 h1{
-  color: #B21F50;
   font-size: 2em;
   text-align: center;
   line-height: 2;
@@ -66,7 +65,6 @@ table{
   min-width: 125px;
   padding: 10px;
   text-align: center;
-  vertical-align: center;
   text-transform: uppercase;
 }
 
