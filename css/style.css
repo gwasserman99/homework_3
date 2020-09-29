@@ -67,7 +67,7 @@ table{
   padding: 10px;
   text-align: center;
   text-transform: uppercase;
-  vertical-align: center;
+  vertical-align: middle;
 }
 
 .rowhead{
